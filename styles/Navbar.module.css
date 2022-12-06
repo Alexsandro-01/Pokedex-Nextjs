@@ -1,0 +1,41 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1em;
+  background-color: var(--darkBlue);
+}
+
+.navbar div {
+  display: flex;
+  align-items: center;
+}
+
+.navbar h1 {
+  color: var(--yellow);
+  font-size: 2em;
+  margin: 0 1em;
+}
+
+.navbar ul {
+  display: flex;
+  list-style: none;
+  padding: 8px 0;
+}
+
+.navbar ul li {
+  padding: 0 .5em;
+}
+
+.navbar a {
+  color: aliceblue;
+  text-decoration: none;
+  transition: 0.5s;
+  border-bottom: 2px solid transparent;
+  padding: .5em;
+}
+
+.navbar a:hover {
+  color: var(--yellow);
+  border-bottom: 2px solid;
+}
