@@ -1,9 +1,15 @@
 .navbar {
+  background-color: var(--darkBlue);
+}
+
+.navbar section {
+  height: 100%;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin: auto;
   padding: 0 1em;
-  background-color: var(--darkBlue);
+  max-width: 1100px;
 }
 
 .navbar div {
@@ -13,8 +19,8 @@
 
 .navbar h1 {
   color: var(--yellow);
-  font-size: 2em;
-  margin: 0 1em;
+  font-size: 1.7em;
+  margin: 0 0.5em;
 }
 
 .navbar ul {
