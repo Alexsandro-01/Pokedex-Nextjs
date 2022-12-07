@@ -1,10 +1,14 @@
 # Boas Vindas ao repositório da Pokedex-Nextjs
 
 
+
+https://user-images.githubusercontent.com/73038442/206052004-ad67a9a2-2590-44d7-88eb-3fbb82351572.mp4
+
+
 #
 
 ## Contexto
-Este projeto foi desenvolvido enquanto acompanhava o [curso de Next.js no youtube]("https://www.youtube.com/playlist?list=PLnDvRpP8BnezfJcfiClWskFOLODeqI_Ft"), ministrado pelo Matheus Battisti, para praticar os aprendizados de Next.js. A Pokeapi foi uma excelente e divertida forma para dar os primeiros passos com o Next e começar a entender como Server Side Rendering funciona, como o roteamento das páginas funciona no Next, realizar o deploy de uma aplicação Next na Vercel, entre outras coisas.
+Este projeto foi desenvolvido enquanto acompanhava o curso de Next.js no [youtube](https://www.youtube.com/playlist?list=PLnDvRpP8BnezfJcfiClWskFOLODeqI_Ft), ministrado pelo Matheus Battisti, para praticar os aprendizados de Next.js. A Pokeapi foi uma excelente e divertida forma para dar os primeiros passos com o Next e começar a entender como Server Side Rendering funciona, como o roteamento das páginas funciona no Next, realizar o deploy de uma aplicação Next na Vercel, entre outras coisas.
 
 ## Tecnologias usadas
 
